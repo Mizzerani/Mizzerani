@@ -44,6 +44,6 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b>, sou <code>Mizzerani</code>, tenho 22 anos, moro em Belo Horizonte e sou <code>estudante</code> de Engenharia da Computação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
+<i><b>Olá</b>, sou <code>Mizzerani</code>, tenho 22 anos, moro em Belo Horizonte - MG e sou <code>estudante</code> de Engenharia da Computação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
  
 -----
