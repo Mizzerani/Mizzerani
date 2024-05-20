@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Mizzerani/Mizzerani/assets/164261517/88f4fbba-f21a-4eb5-83ed-6248be8c2f26"/>
+<img align="center" alt="Header" src="https://github.com/Mizzerani/Mizzerani/assets/164261517/c086de99-13c9-4a89-bd8f-64f74cd1bb7d"/>
 </div>
 
 -----
