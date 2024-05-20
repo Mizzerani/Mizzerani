@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="
+<img align="center" alt="Header" src="![image](https://github.com/Mizzerani/Mizzerani/assets/164261517/88f4fbba-f21a-4eb5-83ed-6248be8c2f26)
 "/>
 </div>
 
