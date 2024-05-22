@@ -125,3 +125,24 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 </div>
 
 -----
+<div>
+<table align="center">
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://github.com/Mizzerani" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/Rito%20do%20Fluxo%20Eterno.png?raw=true" width="100px" height="100px"/></a>
+</td>
+<td>
+| Créditos: <a href="https://github.com/Mizzerani" target="_blank">© 2024 Mizzerani</a><br />
+| Última atualização: 22/05/2024
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+-----
