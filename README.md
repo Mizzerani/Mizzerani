@@ -35,7 +35,7 @@
 <i><b>Olá</b>, sou <code>Mizzerani</code>, tenho 22 anos, moro em Belo Horizonte - MG e sou <code>estudante</code> de Engenharia da Computação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
  
 -----
-Sobre mim:
+<img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/assets/164261517/744f6100-d9df-4fb6-a812-999dc2e6afee"/> Sobre mim:
 
 <div align="justify">
 Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, comecei a me aprofundar na área de hardware e tomar gosto pela área. Com isso, decidi cursar <a href="https://newtonpaiva.br/cursos/graduacao/engenharia-de-computacao/" target="_blank">Engenharia da Computação</a> pela <a href="https://newtonpaiva.br/" target="_blank">Universidade Newton Paiva</a> a fim de compreender os dois lados da Tecnologia: Hardware e Software. Portanto, pretendo futuramente, dominar programação com a mesma qualidade que entendo hardware.
@@ -48,7 +48,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Mizzerani/Mizzerani/main/img/macg3.gif" width="180px" height="180px"/>
 </div>
 
-Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/assets/164261517/744f6100-d9df-4fb6-a812-999dc2e6afee"/> Meus interesses pessoais:
 
 <div align="justify">
 <p> 
@@ -76,6 +76,17 @@ Meus interesses pessoais:
 &nbsp;  
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
+</div>
+
+-----
+
+<img height="20" alt="GIF" src=""/>GitHub Stats:
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizzerani&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mizzerani&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mizzerani&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mizzerani&theme=github_dark"/>
 </div>
 
 -----
