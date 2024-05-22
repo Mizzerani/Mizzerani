@@ -35,3 +35,11 @@
 <i><b>Olá</b>, sou <code>Mizzerani</code>, tenho 22 anos, moro em Belo Horizonte - MG e sou <code>estudante</code> de Engenharia da Computação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
  
 -----
+Sobre mim:
+
+<div align="justify">
+Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, comecei a me aprofundar na área de hardware e tomar gosto pela área. Com isso, decidi cursar <a href="https://newtonpaiva.br/cursos/graduacao/engenharia-de-computacao/" target="_blank">Engenharia da Computação</a> pela <a href="https://newtonpaiva.br/" target="_blank">Universidade Newton Paiva</a> a fim de compreender os dois lados da Tecnologia: Hardware e Software. Portanto, pretendo futuramente, dominar programação com a mesma qualidade que entendo hardware.
+</div>
+
+-----
+
