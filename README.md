@@ -45,7 +45,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 
 <div>
 <div>
-<img align="right" alt="GIF" src="" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Mizzerani/Mizzerani/main/img/macg3.gif" width="180px" height="180px"/>
 </div>
 
 Meus interesses pessoais:
@@ -54,12 +54,10 @@ Meus interesses pessoais:
 <p> 
 - :books: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Engenharia da Computação.<br />
 - :atom: &nbsp; Atualmente, estou estudando Java veja alguns códigos que fiz <a href="https://github.com/Mizzerani/Linguagens_de_Programacao" target="_blank">aqui</a>.<br />
-- :joystick: &nbsp;Meus hobbies são: sou amante de <a href="https://genshin.hoyoverse.com/pt/home" target="_blank">Genshin Impact</a>. Estou experimentando também <a href="https://hsr.hoyoverse.com/pt-pt/" target="_blank">Honkai Star Rail</a>.
+- :joystick: &nbsp;Meus hobbies são: sou amante de <a href="https://genshin.hoyoverse.com/pt/home" target="_blank">Genshin Impact</a>. <br />Estou experimentando também <a href="https://hsr.hoyoverse.com/pt-pt/" target="_blank">Honkai Star Rail</a>.
  E, já joguei bastante <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">LoL</a> também.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:carneirosilvamatheus@gmali.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
 </div>
