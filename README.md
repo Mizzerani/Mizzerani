@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://www.instagram.com/Mizzerani/" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/instagram.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/Mizzerani/" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/matheus-c-s/" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
