@@ -90,3 +90,23 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 </div>
 
 -----
+
+<div>
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/spotify.gif?raw=true"/> Mizzerani's Spotify favourites</summary>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31emqpfhriazkaaimm2oclgtcufe">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31emqpfhriazkaaimm2oclgtcufe" alt="Data Card for Spotify">
+</a>
+</details>
+</div>
+<div>
+<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+<div>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=31emqpfhriazkaaimm2oclgtcufe&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31emqpfhriazkaaimm2oclgtcufe&count=10"/>
+
+</div>
+</div>
+
+-----
