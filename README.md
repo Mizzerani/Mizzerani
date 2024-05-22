@@ -66,15 +66,15 @@ Meus interesses pessoais:
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/c.png?raw=true"/></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg?raw=true"/></a></code>
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/cpp.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png?raw=true"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp;  
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
 </div>
 
