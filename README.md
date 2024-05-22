@@ -12,17 +12,17 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Mizzerani" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Mizzerani" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:carneirosilvamatheus@gmail.com" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:carneirosilvamatheus@gmail.com" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531990640669" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/img/whatsapp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531990640669" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/whatsapp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/Mizzerani/" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/img/instagram.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/Mizzerani/" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/instagram.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/Mizzerani/" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/Mizzerani/" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/img/discord.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
