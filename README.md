@@ -99,9 +99,26 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 </details>
 </div>
 <div>
+<div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/itto%20dance.gif?raw=true" width="212px" height="278px"/>
+</div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=31emqpfhriazkaaimm2oclgtcufe&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31emqpfhriazkaaimm2oclgtcufe&count=10"/>
 </div>
 <div>
+
+-----
+
+</div>
+<a href="https://www.linkedin.com/in/matheus-c-s/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:carneirosilvamatheus@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5531990640669" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://discordapp.com/users/959151773728251914" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/31emqpfhriazkaaimm2oclgtcufe?si=45c49575a1ba4cb7" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a href="https://www.instagram.com/mizzerani/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://steamcommunity.com/profiles/76561198386217479/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
+<a href="https://www.twitch.tv/mizzerani" target="_blank"><img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+</div>
 
 -----
