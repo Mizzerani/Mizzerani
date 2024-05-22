@@ -80,7 +80,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 
 -----
 
-<img height="20" alt="GIF" src=""/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizzerani&theme=github_dark"/>
