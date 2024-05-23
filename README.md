@@ -45,7 +45,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Mizzerani/Mizzerani/main/img/macg3.gif" width="180px" height="180px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Mizzerani/Mizzerani/main/img/macg3.gif" width="230px" height="230px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/assets/164261517/744f6100-d9df-4fb6-a812-999dc2e6afee"/> Meus interesses pessoais:
