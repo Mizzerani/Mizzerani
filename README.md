@@ -53,7 +53,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 <div align="justify">
 <p> 
 - :books: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Engenharia da Computação.<br />
-- :atom: &nbsp; Atualmente, estou estudando Java veja alguns códigos que fiz <a href="https://github.com/Mizzerani/Linguagens_de_Programacao" target="_blank">aqui</a>.<br />
+- :atom: &nbsp; Atualmente, estou estudando Java. Veja alguns códigos que fiz <a href="https://github.com/Mizzerani/Linguagens_de_Programacao" target="_blank">aqui</a>.<br />
 - :joystick: &nbsp;Meus hobbies são: sou amante de <a href="https://genshin.hoyoverse.com/pt/home" target="_blank">Genshin Impact</a>. <br />Estou experimentando também <a href="https://hsr.hoyoverse.com/pt-pt/" target="_blank">Honkai Star Rail</a>.
  E, já joguei bastante <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">LoL</a> também.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
