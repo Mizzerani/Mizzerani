@@ -124,6 +124,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 </div>
 
 -----
+
 <div>
 <table align="center">
 <tr>
