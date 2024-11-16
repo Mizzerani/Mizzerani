@@ -32,13 +32,13 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b>, sou <code>Mizzerani</code>, tenho 22 anos, moro em Belo Horizonte - MG e sou <code>estudante</code> de Engenharia da Computação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
+<i><b>Olá</b>, sou <code>Mizzerani</code>, tenho 22 anos, moro em Belo Horizonte - MG e sou <code>estudante</code> de Engenharia de Computação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
  
 -----
 <img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/assets/164261517/744f6100-d9df-4fb6-a812-999dc2e6afee"/> Sobre mim:
 
 <div align="justify">
-Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, comecei a me aprofundar na área de hardware e tomar gosto pela área. Com isso, decidi cursar <a href="https://newtonpaiva.br/cursos/graduacao/engenharia-de-computacao/" target="_blank">Engenharia da Computação</a> pela <a href="https://newtonpaiva.br/" target="_blank">Universidade Newton Paiva</a> a fim de compreender os dois lados da Tecnologia: Hardware e Software. Portanto, pretendo futuramente, dominar programação com a mesma qualidade que entendo hardware.
+Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, comecei a me aprofundar na área de hardware e tomar gosto. Com isso, decidi cursar <a href="https://newtonpaiva.br/cursos/graduacao/engenharia-de-computacao/" target="_blank">Engenharia da Computação</a> pela <a href="https://newtonpaiva.br/" target="_blank">Universidade Newton Paiva</a> a fim de compreender os dois lados da Tecnologia: Hardware e Software. Portanto, pretendo futuramente, dominar programação com a mesma qualidade que entendo hardware.
 </div>
 
 -----
@@ -52,9 +52,9 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 
 <div align="justify">
 <p> 
-- :books: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Engenharia da Computação.<br />
+- :books: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Engenharia de Computação.<br />
 - :atom: &nbsp; Atualmente, estou estudando Java. Veja alguns códigos que fiz <a href="https://github.com/Mizzerani/Linguagens_de_Programacao" target="_blank">aqui</a>.<br />
-- :joystick: &nbsp;Meus hobbies são: sou amante de <a href="https://zenless.hoyoverse.com/pt-pt/" target="_blank">Zenless Zone Zero</a>. <br />
+- :joystick: &nbsp;O que tenho jogado: <a href="https://zenless.hoyoverse.com/pt-pt/" target="_blank">Zenless Zone Zero</a> e <a href="https://deadbydaylight.com/" target="_blank">Dead by Daylight</a> <br />
  E, já joguei bastante <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">LoL</a> também.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas, principalmente sobre hardware!<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:carneirosilvamatheus@gmali.com" target="_blank">e-mail</a> pessoal.<br />
