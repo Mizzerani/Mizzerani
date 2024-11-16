@@ -68,9 +68,9 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 -----
 
 <div>
-
 <img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
-
+<p></p>
+<div align="flex-start">
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/cpp.svg?raw=true"/></a></code>
@@ -79,6 +79,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 &nbsp;  
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
+</div>
 </div>
 
 -----
@@ -111,7 +112,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 
 -----
 
-</div>
+<div align="center">
 <a href="https://www.linkedin.com/in/matheus-c-s/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:carneirosilvamatheus@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/5531990640669" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
