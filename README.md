@@ -54,9 +54,9 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 <p> 
 - :books: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Engenharia da Computação.<br />
 - :atom: &nbsp; Atualmente, estou estudando Java. Veja alguns códigos que fiz <a href="https://github.com/Mizzerani/Linguagens_de_Programacao" target="_blank">aqui</a>.<br />
-- :joystick: &nbsp;Meus hobbies são: sou amante de <a href="https://genshin.hoyoverse.com/pt/home" target="_blank">Genshin Impact</a>. <br />Estou experimentando também <a href="https://wutheringwaves.kurogames.com/en/" target="_blank">Wuthering Waves</a>.
+- :joystick: &nbsp;Meus hobbies são: sou amante de <a href="https://zenless.hoyoverse.com/pt-pt/" target="_blank">Zenless Zone Zero</a>. <br />.
  E, já joguei bastante <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">LoL</a> também.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas, principalmente sobre hardware!<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:carneirosilvamatheus@gmali.com" target="_blank">e-mail</a> pessoal.<br />
 </div>
  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mizzerani"/>
@@ -136,7 +136,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 </td>
 <td>
 | Créditos: <a href="https://github.com/Mizzerani" target="_blank">© 2024 Mizzerani</a><br />
-| Última atualização: 17/06/2024
+| Última atualização: 16/11/2024
 </td>
 </tr>
 <tr>
