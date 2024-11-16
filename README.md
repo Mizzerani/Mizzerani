@@ -87,8 +87,8 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizzerani&theme=github_dark"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mizzerani&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mizzerani&theme=github_dark"/>
+<img align="center" alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mizzerani&theme=github_dark"/>
+<img align="left" alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mizzerani&theme=github_dark"/>
 </div>
 
 -----
@@ -105,7 +105,6 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 <div>
 <img align="right" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/itto%20dance.gif?raw=true" width="202px" height="268px"/>
 </div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=31emqpfhriazkaaimm2oclgtcufe&cover_image=true&theme=default"/> &nbsp;
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31emqpfhriazkaaimm2oclgtcufe&count=10"/>
 </div>
 <div>
