@@ -85,10 +85,10 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 
 <img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizzerani&theme=github_dark"/>
+<div align="center">
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizzerani&theme=github_dark"/>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mizzerani&theme=github_dark"/>
-<img align="left" alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mizzerani&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mizzerani&theme=github_dark"/>
 </div>
 
 -----
