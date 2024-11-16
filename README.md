@@ -104,9 +104,9 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 <div>
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/Lycaon.gif?raw=true" width="407px" height="294px"/>
+<img align="right" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/blob/main/img/von-lycaon-smile.gif?raw=true" width="298px" height="298px"/>
 </div>
-<img alt="Spotify list" width="200px" height="294px" src="https://spotify-recently-played-readme.vercel.app/api?user=31emqpfhriazkaaimm2oclgtcufe&count=10"/>
+<img alt="Spotify list" width="200px" height="298px" src="https://spotify-recently-played-readme.vercel.app/api?user=31emqpfhriazkaaimm2oclgtcufe&count=10"/>
 </div>
 <div>
 
