@@ -56,8 +56,8 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 - :atom: &nbsp; Atualmente, estou estudando Java. Veja alguns códigos que fiz <a href="https://github.com/Mizzerani/Linguagens_de_Programacao" target="_blank">aqui</a>.<br />
 - :joystick: &nbsp;O que tenho jogado: <a href="https://zenless.hoyoverse.com/pt-pt/" target="_blank">Zenless Zone Zero</a> e <a href="https://deadbydaylight.com/" target="_blank">Dead by Daylight</a> <br />
  E, já joguei bastante <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">LoL</a> também.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas, principalmente sobre hardware!<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:carneirosilvamatheus@gmali.com" target="_blank">e-mail</a> pessoal.<br />
+- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas, principalmente sobre hardware!<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:carneirosilvamatheus@gmali.com" target="_blank">e-mail</a> pessoal. E, meu discord é @Mizzerani<br />
 </div>
  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mizzerani"/>
  <img alt="Followers" src="https://img.shields.io/github/followers/mizzerani?style=social"/>
