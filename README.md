@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b>, sou <code>Mizzerani</code>, tenho 22 anos, moro em Belo Horizonte - MG e sou <code>estudante</code> de Engenharia de Computação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
+<i><b>Olá</b>, sou <code>Mizzerani</code>, tenho 23 anos, moro em Belo Horizonte - MG e sou <code>estudante</code> de Engenharia de Computação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
  
 -----
 <img height="20" alt="GIF" src="https://github.com/Mizzerani/Mizzerani/assets/164261517/744f6100-d9df-4fb6-a812-999dc2e6afee"/> Sobre mim:
@@ -136,7 +136,7 @@ Desde a infância, sempre gostei de tecnologia e jogos. Com o passar dos anos, c
 </td>
 <td>
 | Créditos: <a href="https://github.com/Mizzerani" target="_blank">© 2024 Mizzerani</a><br />
-| Última atualização: 16/11/2024
+| Última atualização: 02/09/2025
 </td>
 </tr>
 <tr>
